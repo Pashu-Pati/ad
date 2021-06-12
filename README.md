@@ -6,4 +6,5 @@ banners:
 - [numo](https://s0.2mdn.net/sadbundle/3252036345338701284/index.html)
 - [pegas](https://s0.2mdn.net/8594506/1611728733711/300x250.html)
 - [liver](https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/2363436394481453026/index.html)
-- []()- []()- []()- []()
+- [rud](https://s0.2mdn.net/10021427/1619213646656/RUD_300x600.html)
+- - []()- []()- []()
